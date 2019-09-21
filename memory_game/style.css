@@ -1,0 +1,18 @@
+h1 {
+font-family: 'Big Shoulders Text', cursive;
+font-weight: 400;
+}
+
+p {
+font-family: 'Big Shoulders Text', cursive;
+}
+
+body {
+text-align: center;
+}
+
+header {
+	background-color:#F15B31;
+	font-color:#FFFFFF;
+	padding:30px 20px;
+}
